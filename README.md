@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Gists
+- [sekretny](https://gist.github.com/kpustelnik/043c36b78b6999b8ba4e89e04273a53a)
+- [publiczny](https://gist.github.com/kpustelnik/c566897658cff18eb8be69a4e137baad)
