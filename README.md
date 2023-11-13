@@ -7,4 +7,6 @@ My name is Kamil and I'm studying Computer Science and Artificial Intelligence a
 
 [My Github pages website](https://kpustelnik.github.io)
 
-[Other website (Dokuwiki on AGH server with creation instructions)](https://student.agh.edu.pl/~kpusteln/)
+[Website hosted on Azure (with instructions)](https://gray-cliff-02660070f.4.azurestaticapps.net/)
+
+[Another website (Dokuwiki on AGH server with creation instructions)](https://student.agh.edu.pl/~kpusteln/)
