@@ -5,4 +5,5 @@ My name is Kamil and I'm studying Computer Science and Artificial Intelligence a
 - 🔭 I’m currently working on Kidang Tikus
 - 📫 How to reach me: [kpustelnik@student.agh.edu.pl](mailto:kpustelnik@student.agh.edu.pl)
 
-[My website](https://kpustelnik.github.io)
+[My Github pages website](https://kpustelnik.github.io)
+[Other website (Dokuwiki on AGH server with creation instructions)](https://student.agh.edu.pl/~kpusteln/)
