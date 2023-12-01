@@ -21,4 +21,4 @@ My name is Kamil and I'm studying Computer Science and Artificial Intelligence a
 
 [Related repository (my fork of it)](https://github.com/kpustelnik/the-algorithm)
 
-[How is it related? - Twitter uses CTR as described in another article](https://dl.acm.org/doi/pdf/10.1145/2783258.2788582)
+[How is it related? - Twitter bases on CTR as described in another article](https://dl.acm.org/doi/pdf/10.1145/2783258.2788582)
